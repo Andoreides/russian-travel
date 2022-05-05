@@ -1,6 +1,6 @@
 .place__website {
-grid-area: url;
-align-self: end;
+    grid-area: url;
+    align-self: end;
 }
 
 @media screen and (max-width: 768px) {
