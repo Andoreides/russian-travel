@@ -1,5 +1,5 @@
 .cover__photo {
-    background-image: url(/images/__background.png);
+    background-image: url(../../../images/__background.png);
     display: flex;
     background-size: cover;
     text-decoration: none;
