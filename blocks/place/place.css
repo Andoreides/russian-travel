@@ -41,7 +41,8 @@
       "image"
       "paragraph";
       grid-column-gap: 16px;
-      margin-bottom: 64px;
+      margin-bottom: 50px;
+      grid-row-gap: 32px;
     }
   }
   

@@ -3,7 +3,7 @@
     line-height: 12px;
     /* identical to box height, or 100% */
     margin: 0 0 12px;
-    text-transform: uppercase;
+    letter-spacing: 2px;
     font-weight: 400;
     color: #AAAAAA;
 }

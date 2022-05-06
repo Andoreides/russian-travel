@@ -1,0 +1,11 @@
+.header__lang-link_active {
+    text-decoration: underline;
+    
+}
+
+@media screen and (max-width: 768px) {
+    .header__lang-link_active {
+        font-size: 18px;
+        line-height: 20px;
+    }   
+}
