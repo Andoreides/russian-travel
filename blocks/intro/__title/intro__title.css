@@ -9,9 +9,9 @@
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
     .intro__title {
-        margin: 86px auto 40px;
+        margin: 60px auto 40px;
         line-height: 35px;
         font-size: 32px;
     }
