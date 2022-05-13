@@ -7,7 +7,13 @@
     margin: 114px auto 40px;
 }
 
-
+@media only screen and (max-width: 1023px) {
+    .intro__title {
+        margin: 88px auto 40px;
+        line-height: 35px;
+        font-size: 32px;
+    }
+}
 
 @media only screen and (max-width: 767px) {
     .intro__title {

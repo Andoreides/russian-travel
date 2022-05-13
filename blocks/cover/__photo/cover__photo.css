@@ -6,7 +6,7 @@
     flex-direction: column;
     position: relative;
     width: 100%;
-    
+    background-position: top center;
 }
 
 .cover__photo::before {
