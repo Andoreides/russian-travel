@@ -10,8 +10,6 @@
 @media only screen and (max-width: 1023px) {
     .intro__title {
         margin: 88px auto 40px;
-        line-height: 35px;
-        font-size: 32px;
     }
 }
 
