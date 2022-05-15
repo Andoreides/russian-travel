@@ -12,8 +12,7 @@
     font-style:  normal;
     font-weight: 700;
     font-display: swap;
-    src: url("Inter-bold.woff2?v=3.12") format("woff2"),
-         url("Inter-bold.woff?v=3.12") format("woff");
+    src: url("Inter-bold.woff2?v=3.12") format("woff2");
   }
   
   @font-face {
